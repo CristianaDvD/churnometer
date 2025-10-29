@@ -1,2 +1,5 @@
 *.ipynb
 inputs/datasets/raw/WA_Fn-UseC_-Telco-Customer-Churn.csv
+jupyter_notebooks/01 - DataCollection.ipynb
+jupyter_notebooks/02 - Churned Customer Study.ipynb
+jupyter_notebooks/03 - DataCleaning.ipynb
